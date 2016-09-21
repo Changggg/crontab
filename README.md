@@ -16,3 +16,6 @@ SSH to the system and type
 
 Insert the following 2 lines
 
+`# 5  23 * * 0 /path_to_pull_data_weekly `
+
+`# 30 23 * * 0 /path_to_weekly_forecast `
